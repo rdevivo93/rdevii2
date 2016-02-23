@@ -4,7 +4,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.border.Border;
 
-class MyJButton extends JLabel implements ActionListener {
+class MyJPanel extends JLabel implements ActionListener {
     
     
     private boolean checked;
@@ -16,7 +16,7 @@ class MyJButton extends JLabel implements ActionListener {
     private int col;
     private boolean enabled = true;
 
-    public MyJButton(int _row, int _col) {
+    public MyJPanel(int _row, int _col) {
         super();
         checked = false;
         mine = false;
