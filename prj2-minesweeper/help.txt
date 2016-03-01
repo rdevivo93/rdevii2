@@ -1,0 +1,5 @@
+This is a game of Minesweeper. The object of the game is to clear all
+squares that do not have mines underneath. You can right click once to 
+flag a square that you know there is a bomb there or twice if you think
+there may be. The number after clicking is how many bombs are touching
+that square.

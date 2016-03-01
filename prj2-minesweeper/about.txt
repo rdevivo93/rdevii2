@@ -1,0 +1,6 @@
+Minesweeper project by Ray DeVivo(676476844) rdevii2
+and Lily Lu(668534742) llu25.
+
+Allows the user to play a game(s) of minesweeper
+CS342 Spring 2016 Troy
+23 February 2016.
