@@ -1,3 +1,3 @@
 # rdevii2
 
-Java projects from CS at UIC. 
+Various Java Projects
